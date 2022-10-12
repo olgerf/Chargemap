@@ -1,0 +1,5 @@
+requests==2.27.1
+pandas==1.4.2
+folium==0.12.1
+geopy==2.2.0
+plotly.express==0.4.1
