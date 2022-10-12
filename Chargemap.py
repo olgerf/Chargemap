@@ -220,7 +220,6 @@ print(response[0]["lon"])
 # In[ ]:
 
 
-https://public.opendatasoft.com/explore/dataset/georef-netherlands-postcode-pc4/table/
 
 
 # <a style='text-decoration:none;line-height:16px;display:flex;color:#5B5B62;padding:10px;justify-content:end;' href='https://deepnote.com?utm_source=created-in-deepnote-cell&projectId=ecc5ef9a-39f6-413f-b3c7-474ca9679f14' target="_blank">
